@@ -1,1 +1,1 @@
-# ManiKumarAdapala.github.io
+# Manikumaradapala.gitlab.io/portfolio/
